@@ -13,10 +13,12 @@ def get_results(query, num_results):
 
         search_results = myConfig.service.cse().list(q=query, cx=myConfig.SEARCH_ENGINE_ID, start=position).execute()
 
+
         query_info = search_results['queries']
         items = search_results['items']
 
         all_items += items
+        
 
 
         for item in items:                          # Get specific metadata from search result.

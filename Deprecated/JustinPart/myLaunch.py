@@ -34,6 +34,13 @@ def myLaunch():
 
 
         print_histogram(freqs, myConfig.NUM_FREQS, myConfig.MAX_SYMBS)
+
+
+
+
+
+
+        
         
         if not sorting_state:
             user_input = int( input("Make a selection: \n\
