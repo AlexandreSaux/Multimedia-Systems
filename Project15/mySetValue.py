@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import *
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.destroyWindow import destroyWindow
+import Project15.myGlobalInit as myGlobalInit
+from Project15.destroyWindow import destroyWindow
 
 def mySetValue(entry, window):
     # Retrieve query from UI elements and store it in global variable myQuery

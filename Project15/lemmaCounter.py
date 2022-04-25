@@ -1,4 +1,4 @@
-import MergedPart.myGlobalInit as myGlobalInit
+import Project15.myGlobalInit as myGlobalInit
 
 def lemmaCounter(title, snippet, term):
     # Count the lemma

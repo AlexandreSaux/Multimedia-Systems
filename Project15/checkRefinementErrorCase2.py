@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import *
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.destroyWindow import destroyWindow
+import Project15.myGlobalInit as myGlobalInit
+from Project15.destroyWindow import destroyWindow
 
 def checkRefinementErrorCase2(window, userInput, length):
     # Check if user input is correct

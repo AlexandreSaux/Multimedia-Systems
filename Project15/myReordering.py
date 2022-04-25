@@ -1,4 +1,4 @@
-from MergedPart.lemmaCounter import lemmaCounter
+from Project15.lemmaCounter import lemmaCounter
 
 def myReordering(freqs, myData, userInput):
     # Reordering of all search results

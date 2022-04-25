@@ -1,5 +1,5 @@
-from MergedPart.myLaunch import myLaunch
-from MergedPart.myGlobalInit import myGlobalInit
+from Project15.myLaunch import myLaunch
+from Project15.myGlobalInit import myGlobalInit
 
 def main():
     # Setup all the global variables and initialize them, then launch application

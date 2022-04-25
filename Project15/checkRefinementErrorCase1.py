@@ -1,15 +1,14 @@
 import tkinter as tk
 from tkinter import *
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.destroyWindow import destroyWindow
+import Project15.myGlobalInit as myGlobalInit
+from Project15.destroyWindow import destroyWindow
 
-def checkErrorCase1(window):
+def checkRefinementErrorCase1(window):
     # Check if user input is a number
 
     userInput = 0
-
     try:
-        userInput = int(myGlobalInit.myReordering)
+        userInput = int(myGlobalInit.myRefinement)
         return { 'status': TRUE, 'userInput': userInput }
     except:
         window3 = tk.Toplevel(window)

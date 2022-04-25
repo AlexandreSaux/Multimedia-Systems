@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import *
-from MergedPart.mySetValueReordering import mySetValueReordering
+from Project15.mySetValueReordering import mySetValueReordering
 
 def mySearchReordering(window, freqs, myData):
     # Create a window to get user input

@@ -1,8 +1,8 @@
 from tkinter import *
 from nltk.corpus import wordnet as wn
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.myRefinementFirstCase import myRefinementFirstCase
-from MergedPart.myRefinementSecondCase import myRefinementSecondCase
+import Project15.myGlobalInit as myGlobalInit
+from Project15.myRefinementFirstCase import myRefinementFirstCase
+from Project15.myRefinementSecondCase import myRefinementSecondCase
 
 def myRefinement(freqs, window, userInput):
     # Launch the two case function

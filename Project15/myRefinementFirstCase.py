@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import *
-from MergedPart.myRefinementErrorCheck import myRefinementErrorCheck
+from Project15.myRefinementErrorCheck import myRefinementErrorCheck
 
 def myRefinementFirstCase(term, senses):
     # If there is alternative expand on them

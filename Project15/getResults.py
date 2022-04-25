@@ -2,7 +2,7 @@ import time
 import random
 import requests
 from bs4 import BeautifulSoup
-import MergedPart.myGlobalInit as myGlobalInit
+import Project15.myGlobalInit as myGlobalInit
 
 def getResults():
     # Initialize every value

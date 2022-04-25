@@ -1,7 +1,7 @@
 from tkinter import *
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.checkRefinementErrorCase1 import checkRefinementErrorCase1
-from MergedPart.checkRefinementErrorCase2 import checkRefinementErrorCase2
+import Project15.myGlobalInit as myGlobalInit
+from Project15.checkRefinementErrorCase1 import checkRefinementErrorCase1
+from Project15.checkRefinementErrorCase2 import checkRefinementErrorCase2
 
 def myRefinementErrorCheck(entry, window2, senses):
     # Launch the two error case function

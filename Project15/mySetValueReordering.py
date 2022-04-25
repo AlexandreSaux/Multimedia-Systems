@@ -1,9 +1,9 @@
 from tkinter import *
-import MergedPart.myRequest as myRequest
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.myReordering import myReordering
-from MergedPart.checkErrorCase1 import checkErrorCase1
-from MergedPart.checkErrorCase2 import checkErrorCase2
+import Project15.myRequest as myRequest
+import Project15.myGlobalInit as myGlobalInit
+from Project15.myReordering import myReordering
+from Project15.checkErrorCase1 import checkErrorCase1
+from Project15.checkErrorCase2 import checkErrorCase2
 
 def mySetValueReordering(entry, window, window2, freqs, myData):
     # Error check for the user input

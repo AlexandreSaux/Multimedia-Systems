@@ -1,11 +1,11 @@
 import tkinter as tk
 from tkinter import *
-from MergedPart.getResults import getResults
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.myWindowInit import myWindowInit
-from MergedPart.createHistogram import createHistogram
-from MergedPart.createSearchResults import createSearchResults
-from MergedPart.createRequestWindow import createRequestWindow
+from Project15.getResults import getResults
+import Project15.myGlobalInit as myGlobalInit
+from Project15.myWindowInit import myWindowInit
+from Project15.createHistogram import createHistogram
+from Project15.createSearchResults import createSearchResults
+from Project15.createRequestWindow import createRequestWindow
 
 def myRequest():
     # Initialize variables

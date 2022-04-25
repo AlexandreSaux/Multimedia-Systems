@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import *
-import MergedPart.myGlobalInit as myGlobalInit
+import Project15.myGlobalInit as myGlobalInit
 
 def myEndRefinement(window, mySearchResults, myHistogram):
     # Create a window to get user input

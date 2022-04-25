@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import *
-from MergedPart.mySetValue import mySetValue
-from MergedPart.myWindowInit import myWindowInit
+from Project15.mySetValue import mySetValue
+from Project15.myWindowInit import myWindowInit
 
 
 def myQuery():

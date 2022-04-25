@@ -1,9 +1,9 @@
 import tkinter as tk
 from tkinter import *
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.myEndRefinement import myEndRefinement
-from MergedPart.myQueryRefinement import myQueryRefinement
-from MergedPart.mySearchReordering import mySearchReordering
+import Project15.myGlobalInit as myGlobalInit
+from Project15.myEndRefinement import myEndRefinement
+from Project15.myQueryRefinement import myQueryRefinement
+from Project15.mySearchReordering import mySearchReordering
 
 def createRequestWindow(mySearchResults, myHistogram, window, freqs, myData):
     # Setup the window panel

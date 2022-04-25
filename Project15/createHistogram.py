@@ -1,6 +1,6 @@
 from collections import Counter
-from MergedPart.filterWords import filterWords
-import MergedPart.myGlobalInit as myGlobalInit
+from Project15.filterWords import filterWords
+import Project15.myGlobalInit as myGlobalInit
 
 def createHistogram(myData):
     # Use token system to build word frequency table and then concatenate it to myHistogram string

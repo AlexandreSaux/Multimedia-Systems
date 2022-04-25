@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import *
-from MergedPart.mySetValueRefinement import mySetValueRefinement
+from Project15.mySetValueRefinement import mySetValueRefinement
 
 def myQueryRefinement(window, freqs, myData):
     # Create a window to get user input

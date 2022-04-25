@@ -1,9 +1,9 @@
 from tkinter import *
-import MergedPart.myRequest as myRequest
-import MergedPart.myGlobalInit as myGlobalInit
-from MergedPart.myRefinement import myRefinement
-from MergedPart.checkErrorCase2 import checkErrorCase2
-from MergedPart.checkRefinementErrorCase1 import checkRefinementErrorCase1
+import Project15.myRequest as myRequest
+import Project15.myGlobalInit as myGlobalInit
+from Project15.myRefinement import myRefinement
+from Project15.checkErrorCase2 import checkErrorCase2
+from Project15.checkRefinementErrorCase1 import checkRefinementErrorCase1
 
 
 def mySetValueRefinement(entry, window, window2, freqs):

@@ -1,5 +1,5 @@
-from MergedPart.myQuery import myQuery
-from MergedPart.myRequest import myRequest
+from Project15.myQuery import myQuery
+from Project15.myRequest import myRequest
 
 def myLaunch():
     # Setup and launch myQuery window to retrieve query from user
